@@ -1,16 +1,15 @@
 {
-  "serverstatus": "true",
+  "serverstatus": "false",
   "noticemode": "true",
-  "dataclearmode": "false",
-  "servermeassage": "Wait We Are Working On a new Update ! @ARMAAN_DEVELOPER",
-  "opentime": "Wait For Some Time ⚡",
-  "link": "https://t.me/@ARMAAN_DEVELOPER",
+  "dataclearmode": "true",
+  "servermeassage": "🔧 Server is currently under maintenance.",
+  "opentime": "Please wait...",
   "libs": "https://github.com/ayushi486/ARMAAN/raw/refs/heads/main/ZENIN.zip",
-  "notice_title": "Welcome To Vip Mod",
-  "notice_body": "@ARMAAN_DEVELOPER",
-  "directlinkopner": "false",
-  "forceexit": "false",
-  "redirectonserveroff": "false",
-  "offtext": "APK expired! Please join @ARMAAN_DEVELOPER",
-  "offtextmode": "false"
+  "notice_title": "Welcome ",
+  "notice_body": "to VIP Mod by @ARMAAN_DEVELOPER",
+
+  "redirectonserveroff": "true",
+  "redirectonserveron": "true",
+  "redirectlink": "https://t.me/ARMAAN_DEVELOPER",
+  "forceexit": "true"
 }
