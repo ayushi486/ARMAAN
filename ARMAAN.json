@@ -1,15 +1,12 @@
 {
-  "serverstatus": "false",
-  "noticemode": "true",
-  "dataclearmode": "true",
-  "servermeassage": "🔧 Server is currently under maintenance.",
-  "opentime": "Please wait...",
-  "libs": "https://github.com/ayushi486/ARMAAN/raw/refs/heads/main/ZENIN.zip",
-  "notice_title": "Welcome ",
-  "notice_body": "to VIP Mod by @ARMAAN_DEVELOPER",
-
-  "redirectonserveroff": "true",
-  "redirectonserveron": "true",
-  "redirectlink": "https://t.me/ARMAAN_DEVELOPER",
-  "forceexit": "true"
+  "serverstatus": "true",
+  "noticemode": "true",
+  "dataclearmode": "false",
+  "servermeassage": "Server Under Maintenance",
+  "opentime": "Come back soon!",
+  "libs": "https://github.com/ayushi486/ARMAAN/raw/refs/heads/main/ZENIN.zip",
+  "notice_title": "🔥 Notice: ",
+  "notice_body": "New update coming soon!",
+  "redirectuser": "true",
+  "redirectlink": "https://t.me/ARMAAN_DEVELOPER"
 }
