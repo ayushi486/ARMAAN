@@ -1,10 +1,12 @@
-            {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update ! @ARMAAN_DEVELOPER",
-    "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/ayushi486/ARMAAN/raw/refs/heads/main/ZENIN.zip",
-    "notice_title":"Welcome To Vip Mod",
-    "notice_body":"@ARMAAN_DEVELOPER"
+             {
+  "serverstatus": "true",
+  "noticemode": "true",
+  "dataclearmode": "false",
+  "servermeassage": "Wait We Are Working On a new Update! ",
+  "opentime": "Please wait...",
+  "libs": "https://github.com/ayushi486/ARMAAN/raw/refs/heads/main/ZENIN.zip",
+  "notice_title": "Welcome! ",
+  "notice_body": "New update is coming soon.",
+  "redirectuser": "true",
+  "redirectlink": "https://t.me/ARMAAN_DEVELOPER"
 }
